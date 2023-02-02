@@ -1,1 +1,1 @@
-hii this is the index page for shopping site updated from payment from develop mode
+hii this is the index page for shopping site updated from payment from develop mode host mode
